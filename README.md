@@ -1,4 +1,6 @@
-ansible
+Ansible
 =======
 
-Ansible setup for my machines
+This repository contains the ansible setup for my machines. It is divided into:
+ 1. Linux
+ 2. Mac OS
